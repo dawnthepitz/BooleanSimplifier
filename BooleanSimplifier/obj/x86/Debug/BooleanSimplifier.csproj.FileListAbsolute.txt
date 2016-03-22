@@ -1,0 +1,9 @@
+C:\Users\root\Documents\BooleanSimplifier\BooleanSimplifier\bin\Debug\BooleanSimplifier.exe
+C:\Users\root\Documents\BooleanSimplifier\BooleanSimplifier\bin\Debug\BooleanSimplifier.pdb
+C:\Users\root\Documents\BooleanSimplifier\BooleanSimplifier\obj\x86\Debug\Interop.MLApp.dll
+C:\Users\root\Documents\BooleanSimplifier\BooleanSimplifier\obj\x86\Debug\BooleanSimplifier.csproj.ResolveComReference.cache
+C:\Users\root\Documents\BooleanSimplifier\BooleanSimplifier\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\root\Documents\BooleanSimplifier\BooleanSimplifier\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\root\Documents\BooleanSimplifier\BooleanSimplifier\obj\x86\Debug\BooleanSimplifier.csproj.GenerateResource.Cache
+C:\Users\root\Documents\BooleanSimplifier\BooleanSimplifier\obj\x86\Debug\BooleanSimplifier.exe
+C:\Users\root\Documents\BooleanSimplifier\BooleanSimplifier\obj\x86\Debug\BooleanSimplifier.pdb
